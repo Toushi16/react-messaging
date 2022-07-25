@@ -1,0 +1,15 @@
+.App {
+  color: rgb(24, 24, 24);
+  display: flex;
+  justify-content: space-around;
+}
+
+.App__friends {
+  width: 400px;
+  padding: 20px;
+}
+
+.App__messages {
+  padding: 20px;
+  width: 400px;
+}
